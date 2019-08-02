@@ -15,7 +15,8 @@
 2、部署该 node 服务项目
 
 ## 捕获错误结果预览
-
-![AjaxError](./static/AjaxError.jpg)
-![JsError](./static/JsError.jpg)
-![ResourceError](./static/ResourceError.jpg)
+<div align="center">
+<img src="./static/AjaxError.jpg"  width="300px" >
+<img src="./static/JsError.jpg" width="300px" >
+<img src="./static/ResourceError.jpg" width="300px" >
+</div>
