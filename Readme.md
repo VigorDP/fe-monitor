@@ -16,7 +16,7 @@
 
 ## 捕获错误结果预览
 <div align="center">
-<img src="./static/AjaxError.jpg"  width="300px" >
-<img src="./static/JsError.jpg" width="300px" >
-<img src="./static/ResourceError.jpg" width="300px" >
+<img src="./static/AjaxError.jpg"  width="250px" >
+<img src="./static/JsError.jpg" width="250px" >
+<img src="./static/ResourceError.jpg" width="250px" >
 </div>
