@@ -1,6 +1,6 @@
 ## 简易监控系统
 
-1、监听 JS 执行错误
+1、监听 JS 执行错误(unhandledrejection 暂未处理)
 
 2、监听资源(image、css、js、font 等通过网络加载的资源)加载错误
 
