@@ -95,6 +95,7 @@
 			// return true;   //错误不会console浏览器上,如需要，可将这样注释
 		};
 	};
+	// 捕获 promise 错误 unhandledrejection:https://www.cnblogs.com/vivotech/p/11162672.html
 	// 捕获资源加载错误(img,script,css,font,stationery,以及jsonp)
 	var catchResourceError = function() {
 		/*默认上报的错误信息*/
